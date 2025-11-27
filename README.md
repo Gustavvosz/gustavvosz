@@ -26,6 +26,9 @@ de Análise e Desenvolvimento de Sistemas.
 | Cursos | Certificados |
 |--------|--------------|
 |Formação UX Designer | [Certificado](https://hermes.dio.me/certificates/P8YPTVIO.pdf)
+|Figma para Devs      | [Certificado](https://comunidade.ada.tech/cursos/1eedb154-2abd-6e20-110f-943d473f4dc9/certificado)
+|Prompt engineering: ChatGPT| [Certificado](https://comunidade.ada.tech/cursos/aecdf2da-83a3-4197-86c5-587e15f4eb98/certificado)
+| ITIL 4 Foundation  | [Certificado](https://workover.com.br/certificados/cursos/9a672f6fc88caf45b1086f67dde4c3eb/validador)
 
 --------
 
